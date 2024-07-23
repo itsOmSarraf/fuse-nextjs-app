@@ -1,5 +1,4 @@
 'use client';
-
 import React, { useEffect, useState, useCallback } from 'react';
 
 export const DynamicGridBackground = ({ children }) => {
