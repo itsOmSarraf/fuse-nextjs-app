@@ -4,7 +4,7 @@ export default function Landing() {
 	return (
 		<DynamicGridBackground>
 			<div className='absolute inset-0 flex items-center justify-center'>
-				<div className='flex flex-col px-2'>
+				<div className='flex flex-col px-2 z-20'>
 					<div className='text-center text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-orange-400 to-orange-200'>
 						Here to ease the Video Production workflow
 					</div>
