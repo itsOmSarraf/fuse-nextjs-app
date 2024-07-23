@@ -6,7 +6,7 @@ export default function Landing() {
 			<div className='absolute inset-0 flex items-center justify-center'>
 				<div className='flex flex-col px-2'>
 					<div className='text-center text-5xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-orange-400 to-orange-200'>
-						Here to ease the video creation workflow
+						Here to ease the Video Production workflow
 					</div>
 					<p className='text-black text-xl text-center mt-4'>
 						Simplify your workflow with {APP_NAME}
