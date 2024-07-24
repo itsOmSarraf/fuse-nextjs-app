@@ -2,7 +2,7 @@
 
 export default function Waitlist() {
     return (
-        <div className='flex flex-col items-center justify-center h-screen z-20'>
+        <div className='flex flex-col items-center justify-center text-center h-screen z-20'>
             <h1 className='text-4xl font-bold'>Waitlist</h1>
             <p className='text-lg mt-4'>Sign up for our waitlist to get early access!</p>
             <form className='mt-4'>

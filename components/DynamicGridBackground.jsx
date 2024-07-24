@@ -75,7 +75,9 @@ export const DynamicGridBackground = ({ children }) => {
 					</div>
 				))}
 			</div>
-			{children}
+			<div className='absolute inset-0 z-20 pointer-events-none'>
+				{children}
+			</div>
 		</div>
 	);
 };
